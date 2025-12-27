@@ -1,10 +1,13 @@
-# ML-basics-and-creating-models-from-scratch
-Machine learning codes and datasets are given, and models are implemented from existing libraries and BUILT FROM SCRATCH 
+# Optimisation Methods for ML, DL, NN, and NLP
+Machine learning codes and datasets are given, and models are implemented from existing libraries and BUILT FROM SCRATCH for better understanding
 
-Test datasets are in the CSVs folder. 
+Test datasets are in the Datasets folder. 
 
+# Study Order:
 
-Simple Linear Regression: 
-1. Two dimensional data.
-2. Go to the PDF I uploaded and search by this topic to understand theories and basics.
-3. placement.csv is the data used for this model.
+1. ML Prerequisites
+
+2. Linear Regression with GD
+   i. Vanilla LR
+   ii. Stochastic LR
+   iii. AdaGrad 
