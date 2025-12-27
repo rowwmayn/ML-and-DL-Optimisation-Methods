@@ -7,7 +7,7 @@ Test datasets are in the Datasets folder.
 
 1. ML Prerequisites
 
-2. Linear Regression with GD
-   i. Vanilla LR
-   ii. Stochastic LR
-   iii. AdaGrad 
+2. Linear Regression with GD<br>
+    i. Vanilla LR<br>
+    ii. Stochastic LR<br>
+    iii. AdaGrad<br> 
