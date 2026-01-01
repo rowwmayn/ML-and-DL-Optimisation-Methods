@@ -11,3 +11,5 @@ Test datasets are in the Datasets folder.
     i. Vanilla LR<br>
     ii. Stochastic LR<br>
     iii. AdaGrad<br> 
+    iv. RMSProp<br>
+    v. Momentum Descent<br>
