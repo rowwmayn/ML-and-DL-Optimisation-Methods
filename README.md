@@ -13,3 +13,4 @@ Test datasets are in the Datasets folder.
     iii. AdaGrad<br> 
     iv. RMSProp<br>
     v. Momentum Descent<br>
+    vi. Nesterov Accelerated Momentum Descent<br>
