@@ -14,3 +14,6 @@ Test datasets are in the Datasets folder.
     iv. RMSProp<br>
     v. Momentum Descent<br>
     vi. Nesterov Accelerated Momentum Descent<br>
+
+2. Classification<br>
+    i. Perceptron<br>    
