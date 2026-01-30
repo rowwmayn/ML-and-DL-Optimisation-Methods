@@ -16,4 +16,5 @@ Test datasets are in the Datasets folder.
     vi. Nesterov Accelerated Momentum Descent<br>
 
 2. Classification<br>
-    i. Perceptron<br>    
+    i. Perceptron<br>
+    ii. Logistic Regression<br>    
